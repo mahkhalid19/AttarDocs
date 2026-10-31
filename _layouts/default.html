@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}" dir="{{ page.dir | default: 'ltr' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- if page.url == '/' %}
+  <title>{{ site.title }}</title>
+  {%- else %}
+  <title>{{ page.title }} · {{ site.title }}</title>
+  {%- endif %}
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta name="color-scheme" content="light dark">
+  <meta name="copyright" content="© {{ site.copyright_year }} {{ site.copyright_holder }}. All rights reserved.">
+  <meta name="robots" content="noai, noimageai">
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <header class="top">
+    <a class="brand" href="{{ '/' | relative_url }}"><span class="brand__mark" aria-hidden="true">عطار</span> ATTAR <span class="brand__sub">theme help</span></a>
+    <details class="menu">
+      <summary>Menu</summary>
+      {% include nav.html %}
+    </details>
+  </header>
+  <div class="wrap">
+    <aside class="side" aria-label="Documentation">
+      {% include nav.html %}
+    </aside>
+    <main id="content" class="main">
+      <article>
+        {%- if page.url != '/' %}
+        <h1>{{ page.title }}</h1>
+        {%- endif %}
+        {{ content }}
+      </article>
+      <footer class="foot">
+        <p>ATTAR {{ site.theme_version }} · <a href="{{ '/support/' | relative_url }}">Contact support</a> · <a href="{{ '/changelog/' | relative_url }}">Changelog</a></p>
+        <p>© {{ site.copyright_year }} {{ site.copyright_holder }}. All rights reserved. <a href="{{ '/terms/' | relative_url }}">Copyright and terms of use</a></p>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>

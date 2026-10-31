@@ -1,0 +1,27 @@
+- group: Start here
+  pages:
+    - { title: Overview, url: / }
+    - { title: Getting started, url: /getting-started/ }
+    - { title: Presets, url: /presets/ }
+    - { title: Languages and right-to-left, url: /languages-and-rtl/ }
+- group: Selling
+  pages:
+    - { title: Product pages, url: /product-pages/ }
+    - { title: Collections and search, url: /collections-and-search/ }
+    - { title: Cart and checkout, url: /cart-and-checkout/ }
+    - { title: Gifting, url: /gifting/ }
+    - { title: Effects and campaigns, url: /effects-and-campaigns/ }
+- group: Pages and content
+  pages:
+    - { title: Pages and templates, url: /pages-and-templates/ }
+    - { title: SEO and sharing, url: /seo-and-sharing/ }
+    - { title: Custom code and apps, url: /custom-code/ }
+- group: Reference
+  pages:
+    - { title: Theme settings, url: /theme-settings/ }
+    - { title: Sections, url: /sections/ }
+    - { title: Changelog, url: /changelog/ }
+- group: Help
+  pages:
+    - { title: FAQ, url: /faq/ }
+    - { title: Contact support, url: /support/ }

@@ -1,0 +1,27 @@
+title: ATTAR theme help
+description: Documentation and support for ATTAR, an Arabic-first Shopify theme for fragrance stores.
+lang: en
+# The repository name with a leading slash, e.g. /attar-docs, when the site is
+# served from https://<user>.github.io/attar-docs/. Empty for a custom domain.
+baseurl: "/AttarDocs"
+permalink: pretty
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+exclude:
+  - README.md
+  - _build
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+# The public support form (Google Forms). It collects name, verified email,
+# store URL, a description and file uploads, and emails each sender a copy.
+support_form_url: "https://docs.google.com/forms/d/e/1FAIpQLSdgqM3PhDK0uGNeAudSDk9aeVe6VCTG6bsqL5DTfeTGC2XrWw/viewform"
+
+theme_version: "1.0.0"
+copyright_holder: "Mahmoud Khalid"
+copyright_year: "2026"
