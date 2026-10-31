@@ -7,7 +7,7 @@ This guide takes you from adding the theme to a store that's ready for its first
 
 ## Add the theme
 
-1. In the Shopify Theme Store, open the ATTAR listing for the preset you like best (Attar, Sand, Majlis or Neon gulf). Each preset has its own listing and its own home page layout.
+1. In the Shopify Theme Store, open the ATTAR listing for the preset you like best (ATTAR, Sand, Majlis or Neon gulf). Each preset has its own listing and its own home page layout.
 2. Select **Try theme** to add it to the **Draft themes** section of Online Store › **Themes**, where you can preview and customize it.
 3. Buy the theme when you're ready to publish it. Customers don't see it until you publish it.
 
@@ -25,7 +25,7 @@ A preset is a starting look: colors, fonts and the Arabic text style. ATTAR has 
 
 | Preset | Look |
 |---|---|
-| **Attar** | Dark, warm black with gold. The default. |
+| **ATTAR** | Dark, warm black with gold. The default. |
 | **Sand** | Light, warm sand with deep green. |
 | **Majlis** | Dark, warm brown with copper. |
 | **Neon gulf** | Dark, deep navy with mint green. |

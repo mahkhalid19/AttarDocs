@@ -54,7 +54,7 @@ Go to Online Store › Themes › **Edit theme** › Theme settings › **Typogr
 | **Arabic body text** | The style of Arabic body text: **Sans (modern)** or **Naskh (classic)**. |
 | **Type scale** | Makes all text slightly smaller or larger, from 90% to 110%. |
 
-**Naskh (classic)** is the traditional book style of Arabic, with strokes that vary in thickness. **Sans (modern)** is a clean style with even strokes, like the Arabic in phone interfaces. Attar, Sand and Majlis start with Naskh headings and Sans body text; Neon gulf uses Sans for both.
+**Naskh (classic)** is the traditional book style of Arabic, with strokes that vary in thickness. **Sans (modern)** is a clean style with even strokes, like the Arabic in phone interfaces. ATTAR, Sand and Majlis start with Naskh headings and Sans body text; Neon gulf uses Sans for both.
 
 The Arabic style applies to Arabic text anywhere, including Arabic lines on English pages. On Arabic pages, the theme also adjusts text size and line spacing so Arabic reads comfortably.
 

@@ -11,7 +11,7 @@ These pages explain how to set up the theme, what every setting does and how to 
 
 <div class="cards">
   <a class="card" href="{{ site.baseurl }}/getting-started/"><strong>Getting started</strong>Add the theme and set up your store in about an hour.</a>
-  <a class="card" href="{{ site.baseurl }}/presets/"><strong>Presets</strong>Attar, Sand, Majlis and Neon gulf: four starting looks.</a>
+  <a class="card" href="{{ site.baseurl }}/presets/"><strong>Presets</strong>ATTAR, Sand, Majlis and Neon gulf: four starting looks.</a>
   <a class="card" href="{{ site.baseurl }}/languages-and-rtl/"><strong>Languages and right-to-left</strong>Arabic, English, numerals and markets.</a>
   <a class="card" href="{{ site.baseurl }}/product-pages/"><strong>Product pages</strong>Scent notes, swatches, gift options and rich media.</a>
   <a class="card" href="{{ site.baseurl }}/theme-settings/"><strong>Theme settings</strong>Every global setting, with its default.</a>

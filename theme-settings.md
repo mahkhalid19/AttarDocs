@@ -7,7 +7,7 @@ description: Every global setting in ATTAR, as it appears in the theme editor.
 
 Theme settings apply to the whole store. Open them from Online Store › Themes › **Edit theme**, then select the gear icon (**Theme settings**) in the sidebar.
 
-This page lists every setting with its default in the **Attar** preset. Other presets start with different values; see [Presets]({{ site.baseurl }}/presets/).
+This page lists every setting with its default in the **ATTAR** preset. Other presets start with different values; see [Presets]({{ site.baseurl }}/presets/).
 
 - [Theme](#theme)
 - [Colors](#colors)

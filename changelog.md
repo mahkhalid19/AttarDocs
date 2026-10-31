@@ -10,7 +10,7 @@ When an update is out, a notice replaces the version number in Online Store › 
 First release.
 
 - Arabic-first layout with automatic right-to-left, Arabic and English storefront text, and a store-wide **Numeral system** setting.
-- Four presets: Attar, Sand, Majlis and Neon gulf.
+- Four presets: ATTAR, Sand, Majlis and Neon gulf.
 - Product pages with scent notes (note ribbon or classic notes list), color swatches, a gift option, local pickup, video, YouTube, Vimeo and 3D media, and a sticky add-to-bag bar.
 - Collection pages with filters, sorting, quick add, express order and fragrance comparison.
 - Cart drawer with gift wrap and message, notes, discounts and accelerated checkout.

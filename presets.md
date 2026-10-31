@@ -1,13 +1,13 @@
 ---
 title: Presets
-description: ATTAR's four presets, Attar, Sand, Majlis and Neon gulf, and what switching between them changes.
+description: The theme's four presets, ATTAR, Sand, Majlis and Neon gulf, and what switching between them changes.
 ---
 
 A preset is a ready-made starting look for ATTAR. Each preset sets the colors, the fonts and the Arabic text style, and comes with its own home page layout. Every preset includes every feature and section; only the starting look differs.
 
-ATTAR has four presets: **Attar**, **Sand**, **Majlis** and **Neon gulf**.
+ATTAR has four presets: **ATTAR**, **Sand**, **Majlis** and **Neon gulf**.
 
-## Attar
+## ATTAR
 
 Dark and warm: a near-black background, cream text and a gold accent, with a deep brown announcement bar. Headings are set in Cormorant, a fine serif, with a classic Naskh style for Arabic headings. This is the default preset.
 
@@ -33,7 +33,7 @@ Dark and modern: a deep navy background, cool white text and a bright mint accen
 
 ## Presets side by side
 
-| | Attar | Sand | Majlis | Neon gulf |
+| | ATTAR | Sand | Majlis | Neon gulf |
 |---|---|---|---|---|
 | Page background | Near-black `#0E0C0A` | Sand `#F3EDE2` | Brown `#221914` | Navy `#0B0F14` |
 | Text | Cream `#E8DCC4` | Dark brown `#1E1A16` | Cream `#F1E6D2` | White `#F2F5F8` |
@@ -49,14 +49,14 @@ Dark and modern: a deep navy background, cool white text and a bright mint accen
 
 Every preset comes with the same four color palettes: the dark gold palette, the light sand palette, the brown copper palette and the navy mint palette. The order changes so that each preset's own palette is **Scheme 1**, which is the **Page color scheme** in every preset.
 
-| Scheme | Attar | Sand | Majlis | Neon gulf |
+| Scheme | ATTAR | Sand | Majlis | Neon gulf |
 |---|---|---|---|---|
 | Scheme 1 (page) | Dark gold | Light sand | Brown copper | Navy mint |
 | Scheme 2 | Light sand | Dark gold | Dark gold | Dark gold |
 | Scheme 3 | Brown copper | Brown copper | Light sand | Light sand |
 | Scheme 4 | Navy mint | Navy mint | Navy mint | Brown copper |
 
-In every preset, **Switch scheme for devices in light mode** is off, and **Light mode scheme** already points to the light sand palette (Scheme 2 in Attar, Scheme 3 in Majlis and Neon gulf). Turn the switch on to show it to visitors whose device is in light mode. Sand is already light, so the switch changes nothing there.
+In every preset, **Switch scheme for devices in light mode** is off, and **Light mode scheme** already points to the light sand palette (Scheme 2 in ATTAR, Scheme 3 in Majlis and Neon gulf). Turn the switch on to show it to visitors whose device is in light mode. Sand is already light, so the switch changes nothing there.
 
 To edit a palette, go to Online Store › Themes › **Edit theme** › Theme settings › **Colors** and select the scheme. See [Theme settings]({{ site.baseurl }}/theme-settings/#colors).
 
